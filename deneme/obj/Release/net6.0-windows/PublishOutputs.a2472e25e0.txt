@@ -1,0 +1,5 @@
+C:\Users\elcsa\Desktop\öğrenci kayıt\deneme.exe
+C:\Users\elcsa\Desktop\öğrenci kayıt\deneme.dll
+C:\Users\elcsa\Desktop\öğrenci kayıt\deneme.deps.json
+C:\Users\elcsa\Desktop\öğrenci kayıt\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\öğrenci kayıt\deneme.pdb

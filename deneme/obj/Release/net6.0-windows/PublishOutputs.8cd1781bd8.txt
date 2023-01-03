@@ -1,0 +1,5 @@
+C:\Users\elcsa\Desktop\okul uygulaması_final\deneme.exe
+C:\Users\elcsa\Desktop\okul uygulaması_final\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\deneme.deps.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\deneme.pdb

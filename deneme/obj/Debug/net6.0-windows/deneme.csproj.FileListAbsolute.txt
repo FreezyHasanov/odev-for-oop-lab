@@ -1,0 +1,95 @@
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\source\repos\deneme\deneme\bin\Debug\net6.0-windows\deneme.exe
+C:\Users\elcsa\source\repos\deneme\deneme\bin\Debug\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\source\repos\deneme\deneme\bin\Debug\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\source\repos\deneme\deneme\bin\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\source\repos\deneme\deneme\bin\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\ref\deneme.dll
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form2.resources
+C:\Users\elcsa\source\repos\deneme\deneme\obj\Debug\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\ref\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\ref\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Debug\net6.0-windows\ref\deneme.dll
+C:\Users\hamid\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.exe
+C:\Users\hamid\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.deps.json
+C:\Users\hamid\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\hamid\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.dll
+C:\Users\hamid\Desktop\deneme\deneme\bin\Debug\net6.0-windows\deneme.pdb
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.form2.resources
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.dll
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\refint\deneme.dll
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.pdb
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\hamid\Desktop\deneme\deneme\obj\Debug\net6.0-windows\ref\deneme.dll

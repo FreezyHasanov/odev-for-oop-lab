@@ -1,0 +1,5 @@
+C:\Users\elcsa\Desktop\deneme.exe
+C:\Users\elcsa\Desktop\deneme.dll
+C:\Users\elcsa\Desktop\deneme.deps.json
+C:\Users\elcsa\Desktop\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\deneme.pdb

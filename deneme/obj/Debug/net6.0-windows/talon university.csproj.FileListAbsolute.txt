@@ -1,0 +1,9 @@
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon_university.Properties.Resources.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Debug\net6.0-windows\talon university.csproj.CoreCompileInputs.cache

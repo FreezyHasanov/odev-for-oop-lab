@@ -1,0 +1,57 @@
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Release\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Release\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Release\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\bin\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\deneme\deneme\obj\Release\net6.0-windows\ref\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\ref\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.exe
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.deps.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.runtimeconfig.json
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\bin\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.AssemblyReference.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.Form1.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.form2.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.Properties.Resources.resources
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.AssemblyInfo.cs
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\refint\deneme.dll
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.pdb
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\deneme.genruntimeconfig.cache
+C:\Users\elcsa\Desktop\okul uygulaması_final\şakasısz okul uygulaması\deneme\deneme\obj\Release\net6.0-windows\ref\deneme.dll
